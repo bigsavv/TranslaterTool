@@ -1,5 +1,5 @@
 import pandas as pd
-import keybxxoard
+import keyboard
 
 
 def read_csv_database(csv_file):
